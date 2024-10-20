@@ -12,15 +12,15 @@
 
 * **Who are the founders of the company?**
 
-**Clément Delangue: CEO and Co-Founder**[^1][^2].
+**Clément Delangue: CEO and Co-Founder**[^1][^2][^10].
 
-**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2][^6].
+**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2][^6][^10].
 
-**Julien Chaumond: CTO and Co-Founder**[^1][^2][^6].
+**Julien Chaumond: CTO and Co-Founder**[^1][^2][^6][^10].
 
 * **How did the idea for the company (or project) come about?**
 
-The idea for Hugging Face originated from a desire to make natural language processing (NLP) more accessible and user-friendly. Founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf, the team aimed to create tools that would simplify the use of machine learning models for developers and researchers. Initially starting as a chatbot company, they pivoted to focus on NLP after recognizing the growing demand for user-friendly AI tools. The vision was to democratize AI, making powerful models and resources available to a wider audience through open-source solutions.[^2].
+The idea for Hugging Face originated from a desire to make natural language processing (NLP) more accessible and user-friendly. Founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf, the team aimed to create tools that would simplify the use of machine learning models for developers and researchers. Initially starting as a chatbot company, they pivoted to focus on NLP after recognizing the growing demand for user-friendly AI tools. The vision was to democratize AI, making powerful models and resources available to a wider audience through open-source solutions.[^2][^10].
 
 > In a September 7, 2023 article written by Time Magazine, they stated that “Hugging Face is an open-source, for-profit machine-learning platform where researchers from around the world convene to share their AI models, datasets, and best practices. In an industry where the cutting edge is dominated by big tech companies, Delangue says efforts like his Paris-based Hugging Face are an essential counterweight, helping distribute AI to a far broader base of users and developers. At the same time, Hugging Face can enforce a set of community standards that prevent harmful AI models from proliferating.”[^3].
 
@@ -41,13 +41,13 @@ With this latest round of investments this gives Hugging Face valuation of $4 bi
 
 * **What specific problem is the company or project trying to solve?**
 
-Hugging Face is trying to solve the problem of making natural language processing (NLP) models more accessible and easy to use for developers and businesses. They provide a platform for accessing and using pre-trained NLP models, as well as tools for training and fine-tuning these models for specific tasks. Their goal is to democratize access to state-of-the-art NLP technology and accelerate innovation in the field.[^2].
+Hugging Face is trying to solve the problem of making natural language processing (NLP) models more accessible and easy to use for developers and businesses. They provide a platform for accessing and using pre-trained NLP models, as well as tools for training and fine-tuning these models for specific tasks. Their goal is to democratize access to state-of-the-art NLP technology and accelerate innovation in the field.[^2][^10][^11].
 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
-Hugging Face's intended customers are developers and businesses looking to incorporate natural language processing (NLP) technology into their applications and services. Their platform provides tools and resources for building and deploying NLP models, making it easier for developers to create innovative solutions using machine learning and AI.[^2].
+Hugging Face's intended customers are developers and businesses looking to incorporate natural language processing (NLP) technology into their applications and services. Their platform provides tools and resources for building and deploying NLP models, making it easier for developers to create innovative solutions using machine learning and AI.[^2][^12].
 
-The market size for Hugging Face primarily targets the AI and machine learning sectors, particularly in natural language processing (NLP). This market is projected to reach tens of billions of dollars over the next few years. Specific estimates vary, but the NLP market alone is expected to grow significantly, driven by increasing demand for AI applications across various industries.[^2].
+The market size for Hugging Face primarily targets the AI and machine learning sectors, particularly in natural language processing (NLP). This market is projected to reach tens of billions of dollars over the next few years. Specific estimates vary, but the NLP market alone is expected to grow significantly, driven by increasing demand for AI applications across various industries.[^2][^12].
 
 According to HG Insights, there are 3,305 companies they track that use Hugging Face. That is a 84.21% increase in the last 12 months.[^8].
 
@@ -61,7 +61,7 @@ Hugging Face offers several unique solutions that set it apart from competitors:
 4.	**Focus on Open Source**: Their commitment to open-source tools encourages innovation and allows users to customize models to fit specific needs.
 5.	**Hugging Face Hub**: A centralized platform for sharing models and datasets, which enhances accessibility and collaboration within the AI community.
 
-These features contribute to a more holistic ecosystem that many competitors may not fully replicate.[^1][^2].
+These features contribute to a more holistic ecosystem that many competitors may not fully replicate.[^1][^2][^10][^11].
 
 Hugging Face has several advantages that could be considered “unfair” in a competitive context:
 
@@ -84,14 +84,14 @@ Hugging Face employs several key technologies to power its offerings:
 5.	**Gradio and Streamlit**: For building interactive applications, Hugging Face integrates tools like Gradio, allowing users to create demos and interfaces for models easily.
 6.	**APIs and Cloud Services**: They provide APIs for developers to integrate NLP capabilities into applications without needing deep ML expertise.
 
-These technologies are implemented to ensure ease of use, scalability, and a robust ecosystem that supports collaboration and innovation in the AI community.[^1][^2][^7].
+These technologies are implemented to ensure ease of use, scalability, and a robust ecosystem that supports collaboration and innovation in the AI community.[^1][^2][^7][^10][^11].
 
 
 ## Landscape
 
 * **What field is the company in?**
 
-Hugging Face operates primarily in the field of artificial intelligence, specifically focusing on natural language processing (NLP) and machine learning. Their work encompasses developing and providing tools, libraries, and models that facilitate the use of AI for text-related tasks, making advanced NLP accessible to developers and researchers.[^2].
+Hugging Face operates primarily in the field of artificial intelligence, specifically focusing on natural language processing (NLP) and machine learning. Their work encompasses developing and providing tools, libraries, and models that facilitate the use of AI for text-related tasks, making advanced NLP accessible to developers and researchers.[^2][^10][^11].
 
 * **What have been the major trends and innovations of this field over the last 5-10 years?**
 
@@ -110,7 +110,7 @@ Over the last 5-10 years, several major trends and innovations in Artificial Int
 11.	**Real-time and Edge AI**: Advances in processing power have enabled AI applications to run in real-time and on edge devices, facilitating quicker responses and broader deployment.
 12.	**Robustness and Generalization**: Research has increasingly focused on making models robust to adversarial attacks and ensuring they generalize well across different domains and datasets.
 
-These trends reflect a significant evolution in the capabilities, applications, and societal implications of AI and machine learning technologies.[^2].
+These trends reflect a significant evolution in the capabilities, applications, and societal implications of AI and machine learning technologies.[^2][^13].
 
 * **What are the other major companies in this field?**
 
@@ -123,7 +123,7 @@ Hugging Face faces competition from several companies and platforms in the AI an
 5.	**Fast.ai**: Offers educational resources and tools for deep learning, focusing on making AI more accessible.
 6.	**NVIDIA**: Provides tools and frameworks for AI development, particularly in GPU-accelerated computing.
 
-These competitors vary in their offerings and focus areas, but all operate within the broader AI and machine learning landscape.[^2].
+These competitors vary in their offerings and focus areas, but all operate within the broader AI and machine learning landscape.[^2][^14][^15].
 
 
 ## Results
@@ -139,7 +139,7 @@ Hugging Face has had a notable business impact in several ways:
 5.	**Community Building**: By cultivating a strong community of developers and researchers, Hugging Face has positioned itself as a leader in the NLP space, driving brand loyalty and increasing its influence in the AI ecosystem.
 6.	**Education and Resources**: They provide educational resources and training, helping to upskill the workforce in AI and machine learning, which can lead to broader adoption and application of their tools.
 
-Overall, Hugging Face has significantly influenced the AI landscape by making advanced NLP technologies more accessible and promoting innovation across industries.[^2].
+Overall, Hugging Face has significantly influenced the AI landscape by making advanced NLP technologies more accessible and promoting innovation across industries.[^2][^12].
 
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
@@ -156,7 +156,7 @@ Companies in AI, NLP, and ML typically use a variety of core metrics to measure 
 9.	**User Engagement Metrics**: For applications like chatbots or recommendation systems, metrics such as user satisfaction, retention, and engagement can be critical indicators of success.
 10.	**Return on Investment (ROI)**: Measures the financial impact of AI initiatives, comparing the cost of implementation against the financial benefits gained.
 
-These metrics help organizations assess model performance, user impact, and overall effectiveness in achieving business goals.[^2].
+These metrics help organizations assess model performance, user impact, and overall effectiveness in achieving business goals.[^2][^16].
 
 Since Hugging Face is a private company, specific performance metrics for them aren’t publicly detailed. However, it can be inferred their success can be based on several indicators:
 
@@ -256,4 +256,17 @@ By leveraging these technologies, Hugging Face can build a robust, efficient, an
 
 [^9]:	Contrary Research - https://research.contrary.com/company/hugging-face
 
+[^10]: TechTarget - https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20Inc.%20is%20the,Julien%20Chaumond%20and%20Thomas%20Wolf.
+
+[^11]: Datacamp - https://www.datacamp.com/tutorial/what-is-hugging-face
+
+[^12]: Looking at Hugging Face’s Go-to-Market and Product Positioning - https://www.talkingtocomputers.com/hugging-face-go-to-market-product-positioning
+
+[^13]: How AI has evolved over the years - https://www.ideta.io/blog-posts-english/how-artificial-intelligence-has-evolved-over-the-years#:~:text=The%20evolution%20of%20AI%20has,%2C%20and%20voice%2Dactivated%20assistants.
+
+[^14]: Top 10 companies advancing NLP - https://technologymagazine.com/top10/top-10-companies-advancing-natural-language-processing
+
+[^15]: Top 10 ML companies - https://technologymagazine.com/top10/top-10-machine-learning-companies
+
+[^16]:	Demystifying AI/ML Performance Metrics: A Guide to Building High-Impact Models - https://svitla.com/blog/ai-ml-performance-metrics/#:~:text=Precision%2C%20recall%2C%20and%20F1%2Dscore%2C%20which%20focus%20on,be%20valuable%20in%20imbalanced%20scenarios
 
