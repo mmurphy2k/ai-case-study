@@ -6,10 +6,10 @@ AI Bootcamp Module 1 Challenge
 ## Overview and Origin
 
 * Name of company
-**Hugging Face [1]**
+**Hugging Face <sub>[1]</sub>**
 
 * When was the company incorporated?
-2016
+**2016**
 
 * Who are the founders of the company?
 Clément Delangue: CEO and Co-Founder [2]
