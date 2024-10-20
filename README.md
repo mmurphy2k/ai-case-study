@@ -6,12 +6,15 @@ AI Bootcamp Module 1 Challenge
 ## Overview and Origin
 
 * Name of company
+
 **Hugging Face <sub>[1]</sub>**
 
 * When was the company incorporated?
+
 **2016**
 
 * Who are the founders of the company?
+
 Clément Delangue: CEO and Co-Founder [2]
 Thomas Wolf: Chief Science Officer and Co-Founder [2][6]
 Julien Chaumond: CTO and Co-Founder [2][6]
