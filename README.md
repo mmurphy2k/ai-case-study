@@ -15,11 +15,11 @@ AI Bootcamp Module 1 Challenge
 
 * Who are the founders of the company?
 
-**Clément Delangue: CEO and Co-Founder**[^1][^2]
+**Clément Delangue: CEO and Co-Founder**[^1][^2].
 
-**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2][^6]
+**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2][^6].
 
-**Julien Chaumond: CTO and Co-Founder**[^1][^2][^6]
+**Julien Chaumond: CTO and Co-Founder**[^1][^2][^6].
 
 * How did the idea for the company (or project) come about?
 
@@ -243,8 +243,10 @@ By leveraging these technologies, Hugging Face can build a robust, efficient, an
 
 ## Addendum
 
-[^1]	Hugging Face - https://huggingface.co
-[^2]	ChatGPT-4 -  https://openai.com/index/chatgpt/
+[^1]:	Hugging Face - https://huggingface.co
+
+[^2]:	ChatGPT-4 -  https://openai.com/index/chatgpt/
+
 3.	Time Magazine - https://time.com/collection/time100-ai/6308994/clement-delangue/#:~:text=CEO%20and%20Co%2DFounder%2C%20Hugging%20Face&text=Clément%20Delangue%20is%20the,condensed%20and%20edited%20for%20clarity
 4.	Hugging Face Series-C Funding - https://huggingface.co/blog/series-c
 5.	Venture Beat - https://venturebeat.com/ai/hugging-face-gets-a-235m-group-hug-led-by-salesforce/
