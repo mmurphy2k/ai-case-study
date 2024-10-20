@@ -25,7 +25,7 @@ AI Bootcamp Module 1 Challenge
 
 The idea for Hugging Face originated from a desire to make natural language processing (NLP) more accessible and user-friendly. Founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf, the team aimed to create tools that would simplify the use of machine learning models for developers and researchers. Initially starting as a chatbot company, they pivoted to focus on NLP after recognizing the growing demand for user-friendly AI tools. The vision was to democratize AI, making powerful models and resources available to a wider audience through open-source solutions.[^2].
 
-> In a September 7, 2023 article written by Time Magazine, they stated that “Hugging Face is an open-source, for-profit machine-learning platform where researchers from around the world convene to share their AI models, datasets, and best practices. AI is an industry where the cutting edge is dominated by big tech companies, CEO Delangue has stated that efforts like his Paris-based Hugging Face are an essential counterweight, helping distribute AI to a far broader base of users and developers. He also stated that at the same time, Hugging Face can enforce a set of community standards that prevent harmful AI models from proliferating.”
+> In a September 7, 2023 article written by Time Magazine, they stated that “Hugging Face is an open-source, for-profit machine-learning platform where researchers from around the world convene to share their AI models, datasets, and best practices. AI is an industry where the cutting edge is dominated by big tech companies, CEO Delangue has stated that efforts like his Paris-based Hugging Face are an essential counterweight, helping distribute AI to a far broader base of users and developers. He also stated that at the same time, Hugging Face can enforce a set of community standards that prevent harmful AI models from proliferating.”[^3].
 
 * How is the company funded? How much funding have they received?
 
@@ -240,7 +240,6 @@ The mentioned technologies are appropriate for creating a dashboard and advanced
 By leveraging these technologies, Hugging Face can build a robust, efficient, and user-friendly analytics solution that meets the needs of its diverse user base.[^2].
 
 
-## Addendum
 
 [^1]:	Hugging Face - https://huggingface.co
 
