@@ -7,7 +7,7 @@ AI Bootcamp Module 1 Challenge
 
 * **Name of company**
 
-**Hugging Face**
+[**Hugging Face**](https://huggingface.co).
 
 * **When was the company incorporated?**
 
