@@ -34,7 +34,7 @@ Hugging Face has been through 5 rounds of funding massing over $395 million in j
 1.	Seed Round (2020) – Approximately $4 million led by various angel investors.[^2].
 2.	Series A (2021) – Approximately $15 million led by Lux Capital, Accel, Coatue Management, and other angel investors.[^2].
 3.	Series B (2021) – Approximately $40 million led by Coatue Management, Accel,  and other angel investors.[^2].
-4.	Series C (2022) –$100 million led by Lux Capital, Sequoia, Coatue and others.
+4.	Series C (2022) –$100 million led by Lux Capital, Sequoia, Coatue and others.[^4].
 5.	Series D (2022) –$235 million led by Salesforce, Google, Amazon, Nvidia, Intel, AMD, Qualcomm, IBM, and Sound Ventures.
 
 With this latest round of investments this gives Hugging Face valuation of $4 billion.
