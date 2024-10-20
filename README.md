@@ -17,9 +17,9 @@ AI Bootcamp Module 1 Challenge
 
 **Clément Delangue: CEO and Co-Founder**[^1][^2].
 
-**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2].
+**Thomas Wolf: Chief Science Officer and Co-Founder**[^1][^2][^6].
 
-**Julien Chaumond: CTO and Co-Founder**[^1][^2].
+**Julien Chaumond: CTO and Co-Founder**[^1][^2][^6].
 
 * How did the idea for the company (or project) come about?
 
