@@ -5,8 +5,8 @@ AI Bootcamp Module 1 Challenge
 
 ## Overview and Origin
 
-* Name of company\n
-Hugging Face [1]
+* Name of company
+** Hugging Face [1] **
 
 * When was the company incorporated?
 2016
