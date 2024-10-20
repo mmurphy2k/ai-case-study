@@ -25,7 +25,7 @@ AI Bootcamp Module 1 Challenge
 
 The idea for Hugging Face originated from a desire to make natural language processing (NLP) more accessible and user-friendly. Founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf, the team aimed to create tools that would simplify the use of machine learning models for developers and researchers. Initially starting as a chatbot company, they pivoted to focus on NLP after recognizing the growing demand for user-friendly AI tools. The vision was to democratize AI, making powerful models and resources available to a wider audience through open-source solutions.[^2].
 
-> In a September 7, 2023 article written by Time Magazine, they stated that “Hugging Face is an open-source, for-profit machine-learning platform where researchers from around the world convene to share their AI models, datasets, and best practices. AI is an industry where the cutting edge is dominated by big tech companies, CEO Delangue has stated that efforts like his Paris-based Hugging Face are an essential counterweight, helping distribute AI to a far broader base of users and developers. He also stated that at the same time, Hugging Face can enforce a set of community standards that prevent harmful AI models from proliferating.”[^3].
+> In a September 7, 2023 article written by Time Magazine, they stated that “Hugging Face is an open-source, for-profit machine-learning platform where researchers from around the world convene to share their AI models, datasets, and best practices. In an industry where the cutting edge is dominated by big tech companies, Delangue says efforts like his Paris-based Hugging Face are an essential counterweight, helping distribute AI to a far broader base of users and developers. At the same time, Hugging Face can enforce a set of community standards that prevent harmful AI models from proliferating.”[^3].
 
 * How is the company funded? How much funding have they received?
 
@@ -35,7 +35,7 @@ Hugging Face has been through 5 rounds of funding massing over $395 million in j
 2.	Series A (2021) – Approximately $15 million led by Lux Capital, Accel, Coatue Management, and other angel investors.[^2].
 3.	Series B (2021) – Approximately $40 million led by Coatue Management, Accel,  and other angel investors.[^2].
 4.	Series C (2022) –$100 million led by Lux Capital, Sequoia, Coatue and others.[^4].
-5.	Series D (2022) –$235 million led by Salesforce, Google, Amazon, Nvidia, Intel, AMD, Qualcomm, IBM, and Sound Ventures.[^5].
+5.	Series D (2022) –$235 million led by Salesforce, Google, Amazon, Nvidia, Intel, AMD, Qualcomm, IBM, and Sound Ventures.[^5][^9].
 
 With this latest round of investments this gives Hugging Face valuation of $4 billion.[^5].
 
@@ -52,7 +52,7 @@ Hugging Face's intended customers are developers and businesses looking to incor
 
 The market size for Hugging Face primarily targets the AI and machine learning sectors, particularly in natural language processing (NLP). This market is projected to reach tens of billions of dollars over the next few years. Specific estimates vary, but the NLP market alone is expected to grow significantly, driven by increasing demand for AI applications across various industries.[^2].
 
-According to HG Insights, there are 3,305 companies they track that use Hugging Face. That is a 84.21% increase in the last 12 months.
+According to HG Insights, there are 3,305 companies they track that use Hugging Face. That is a 84.21% increase in the last 12 months.[^8].
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -87,7 +87,7 @@ Hugging Face employs several key technologies to power its offerings:
 5.	Gradio and Streamlit: For building interactive applications, Hugging Face integrates tools like Gradio, allowing users to create demos and interfaces for models easily.
 6.	APIs and Cloud Services: They provide APIs for developers to integrate NLP capabilities into applications without needing deep ML expertise.
 
-These technologies are implemented to ensure ease of use, scalability, and a robust ecosystem that supports collaboration and innovation in the AI community.[^1][^2].
+These technologies are implemented to ensure ease of use, scalability, and a robust ecosystem that supports collaboration and innovation in the AI community.[^1][^2][^7].
 
 
 ## Landscape
