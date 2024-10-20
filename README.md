@@ -1,6 +1,3 @@
-# ai-case-study
-AI Bootcamp Module 1 Challenge
-
 # The Face of the AI Community
 
 ## Overview and Origin
