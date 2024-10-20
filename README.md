@@ -248,16 +248,16 @@ By leveraging these technologies, Hugging Face can build a robust, efficient, an
 
 [^3]:	Time Magazine - https://time.com/collection/time100-ai/6308994/clement-delangue/#:~:text=CEO%20and%20Co%2DFounder%2C%20Hugging%20Face&text=Clément%20Delangue%20is%20the,condensed%20and%20edited%20for%20clarity
 
-[^4].	Hugging Face Series-C Funding - https://huggingface.co/blog/series-c
+[^4]:	Hugging Face Series-C Funding - https://huggingface.co/blog/series-c
 
-[^5].	Venture Beat - https://venturebeat.com/ai/hugging-face-gets-a-235m-group-hug-led-by-salesforce/
+[^5]:	Venture Beat - https://venturebeat.com/ai/hugging-face-gets-a-235m-group-hug-led-by-salesforce/
 
-[^6].	LinkedIn - https://www.linkedin.com/
+[^6]:	LinkedIn - https://www.linkedin.com/
 
-[^7].	Stackshare - https://stackshare.io/hugging-face
+[^7]:	Stackshare - https://stackshare.io/hugging-face
 
-[^8].	HG Insights - https://discovery.hgdata.com/product/hugging-face
+[^8]:	HG Insights - https://discovery.hgdata.com/product/hugging-face
 
-[^9].	Contrary Research - https://research.contrary.com/company/hugging-face
+[^9]:	Contrary Research - https://research.contrary.com/company/hugging-face
 
 
